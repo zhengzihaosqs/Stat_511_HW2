@@ -1,0 +1,42 @@
+---
+title: "Homework 2"
+author: "Edward Landon, Xihui Xu, Zihao Zheng"
+date: "9/10/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Question 1
+
+```{r}
+
+```
+
+# Question 2
+
+```{r}
+
+```
+
+# Question 3
+
+```{r}
+
+```
+
+# Question 4
+
+```{r}
+
+```
+
+# Question 5
+
+```{r}
+
+```
+
+

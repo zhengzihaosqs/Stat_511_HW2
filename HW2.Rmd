@@ -1,6 +1,6 @@
 ---
 title: "Homework 2"
-author: "Edward Landon, Xihui Xu, Zihao Zheng"
+author: "Edward Landon, Xihui Xu and Zihao Zheng"
 date: "9/10/2021"
 output: pdf_document
 ---
